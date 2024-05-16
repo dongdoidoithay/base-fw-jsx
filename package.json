@@ -1,0 +1,40 @@
+{
+  "name": "base-fw-jsx",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev -p 7777",
+    "build": "next build",
+    "start": "next start -p 7777",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@popperjs/core": "^2.11.8",
+    "bootstrap": "^5.3.3",
+    "cheerio": "^1.0.0-rc.12",
+    "crypto-js": "^4.2.0",
+    "fs": "^0.0.1-security",
+    "lodash": "^4.17.21",
+    "md5": "^2.3.0",
+    "next": "14.2.3",
+    "next-seo": "^6.5.0",
+    "next-sitemap": "^4.2.3",
+    "next13-progressbar": "^1.2.1",
+    "node-cache": "^5.1.2",
+    "react": "^18",
+    "react-cookie": "^7.1.4",
+    "react-dom": "^18",
+    "react-toastify": "^10.0.5",
+    "xml": "^1.0.1"
+  },
+  "devDependencies": {
+    "@types/bootstrap": "^5.2.10",
+    "@types/lodash": "^4.17.1",
+    "@types/node": "^20",
+    "@types/react": "^18",
+    "@types/react-dom": "^18",
+    "eslint": "^8",
+    "eslint-config-next": "14.2.3",
+    "typescript": "^5"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "key_type_defalt": "novel-en",
+  "key_lang_defalt": "en",
+  "domain_name": "novelcool.xyz",
+  "brand_name": "Novel Cool",
+  "brand_name_other": "Novel Cool",
+  "image_bg": "/bg.jpg",
+  "image_logo": "default.png",
+  "lang_seo": "en",
+  "analytics_key": "G-HYSYM3M3R3",
+  "bing_key": "b56e1003fc7744ebb65e65319b8dbb4c",
+  "google_key": "",
+  "monetag_key": "31747524bb2c8970e88f064755fa473f",
+  "ads": [
+    {
+      "key": "yandex",
+      "value": "R-A-6979017-1",
+      "unit": "",
+      "tempAds": "novelcool.xyz",
+      "type": "banner"
+    },
+    {
+      "key": "adsterra",
+      "value": "74cacb74504d306570d6dd0ace20fb53",
+      "unit": "",
+      "tempAds": "novelcool.xyz",
+      "type": "banner"
+    },
+    {
+      "key": "monetag-inital",
+      "value": "//thubanoa.com/1?z=7270594",
+      "unit": "",
+      "tempAds": "novelcool.xyz",
+      "type": "popup"
+    }
+  ]
+}

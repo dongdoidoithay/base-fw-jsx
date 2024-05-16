@@ -1,0 +1,343 @@
+{
+  "data_menu_lang": [
+    {
+      "key_lang": "en",
+      "menu_lang": [
+        {
+          "key_type": "pageManga",
+          "lable": "Manga"
+        },
+        {
+          "key_type": "pageNovel",
+          "lable": "Novel"
+        },
+        {
+          "key_type": "pageAnime",
+          "lable": "Anime & Movie"
+        },
+        {
+          "key_type": "manga-en",
+          "lable": "Manga Scan"
+        },
+        {
+          "key_type": "comic-en",
+          "lable": "Comic & DC"
+        },
+        {
+          "key_type": "manga-br",
+          "lable": "Manga (Português)"
+        },
+        {
+          "key_type": "manga-ru",
+          "lable": "Manga (Russian)"
+        },
+        {
+          "key_type": "hentai-ru",
+          "lable": "Manga 18+ (Russian)"
+        },
+        {
+          "key_type": "yaoi-ru",
+          "lable": "Manga Yaoi (Russian)"
+        },
+        {
+          "key_type": "novel-en",
+          "lable": "Novels (English)"
+        },
+        {
+          "key_type": "anime-en",
+          "lable": "Anime & Movies"
+        },
+        {
+          "key_type": "anime-ru",
+          "lable": "Anime & Movies Ru"
+        }
+      ],
+      "select_type": [
+        {
+          "key_type": "manga-en",
+          "lable": "(ME) Manga Scan"
+        },
+        {
+          "key_type": "manga-br",
+          "lable": "(MP) Manga Português"
+        },
+        {
+          "key_type": "comic-en",
+          "lable": "(CM) Comic & DC"
+        },
+        {
+          "key_type": "manga-ru",
+          "lable": "(MR) Manga Russian"
+        },
+        {
+          "key_type": "hentai-ru",
+          "lable": "(HR) Manga 18+ Russian"
+        },
+        {
+          "key_type": "yaoi-ru",
+          "lable": "(YA) Manga Yaoi Russian"
+        },
+        {
+          "key_type": "anime-en",
+          "lable": "(AE) Anime & Movies"
+        },
+        {
+          "key_type": "anime-ru",
+          "lable": "(AR) Anime & Movies RU"
+        },
+        {
+          "key_type": "novel-en",
+          "lable": "(NE) Novels (English)"
+        }
+      ]
+    },
+    {
+      "key_lang": "ru",
+      "menu_lang": [
+        {
+          "key_type": "pageManga",
+          "lable": "Манга"
+        },
+        {
+          "key_type": "pageNovel",
+          "lable": "Романы"
+        },
+        {
+          "key_type": "pageAnime",
+          "lable": "Аниме & Movie"
+        },
+        {
+          "key_type": "manga-en",
+          "lable": "Сканирование манги"
+        },
+        {
+          "key_type": "comic-en",
+          "lable": "Комиксы и DC"
+        },
+        {
+          "key_type": "manga-br",
+          "lable": "Манга (португальский)"
+        },
+        {
+          "key_type": "manga-ru",
+          "lable": "Манга (русский)"
+        },
+        {
+          "key_type": "hentai-ru",
+          "lable": "Манга 18+ (русский)"
+        },
+        {
+          "key_type": "yaoi-ru",
+          "lable": "Манга Яой (русский)"
+        },
+        {
+          "key_type": "novel-en",
+          "lable": "Сканирование романов (английский)"
+        },
+        {
+          "key_type": "anime-en",
+          "lable": "Аниме и фильмы"
+        },
+        {
+          "key_type": "anime-ru",
+          "lable": "Аниме и фильмы (русский)"
+        }
+      ],
+      "select_type": [
+        {
+          "key_type": "manga-en",
+          "lable": "(ME) Сканирование манги"
+        },
+        {
+          "key_type": "manga-br",
+          "lable": "(MP) Манга на португальском"
+        },
+        {
+          "key_type": "comic-en",
+          "lable": "(CM) Комиксы и DC"
+        },
+        {
+          "key_type": "manga-ru",
+          "lable": "(MR) Манга на русском"
+        },
+
+        {
+          "key_type": "hentai-ru",
+          "lable": "(HR) Манга 18+ на русском"
+        },
+        {
+          "key_type": "yaoi-ru",
+          "lable": "(YA) Манга Яой на русском"
+        },
+        {
+          "key_type": "anime-en",
+          "lable": "(AE) Аниме и фильмы"
+        },
+        {
+          "key_type": "anime-ru",
+          "lable": "(AR) Аниме и фильмы на русском"
+        },
+        {
+          "key_type": "novel-en",
+          "lable": "(NE) Сканирование (английский)"
+        }
+      ]
+    },
+    {
+      "key_lang": "br",
+      "menu_lang": [
+        {
+          "key_type": "pageManga",
+          "lable": "Mangá"
+        },
+        {
+          "key_type": "pageNovel",
+          "lable": "Romances"
+        },
+        {
+          "key_type": "pageAnime",
+          "lable": "Anime & Movie"
+        },
+        {
+          "key_type": "manga-en",
+          "lable": "Scans de Mangá"
+        },
+        {
+          "key_type": "comic-en",
+          "lable": "Quadrinhos e DC"
+        },
+        {
+          "key_type": "manga-br",
+          "lable": "Mangá (Português)"
+        },
+        {
+          "key_type": "manga-ru",
+          "lable": "Mangá (Russo)"
+        },
+        {
+          "key_type": "hentai-ru",
+          "lable": "Mangá +18 (Russo)"
+        },
+        {
+          "key_type": "yaoi-ru",
+          "lable": "Mangá Yaoi (Russo)"
+        },
+        {
+          "key_type": "novel-en",
+          "lable": "Romances (Inglês)"
+        },
+        {
+          "key_type": "anime-en",
+          "lable": "Anime e Filmes"
+        },
+        {
+          "key_type": "anime-ru",
+          "lable": "Anime e Filmes(русский)"
+        }
+      ],
+      "select_type": [
+        {
+          "key_type": "manga-en",
+          "lable": "(ME) Scans de Mangá"
+        },
+        {
+          "key_type": "manga-br",
+          "lable": "(MP) Mangá em Português"
+        },
+        {
+          "key_type": "comic-en",
+          "lable": "(CM) Quadrinhos e DC"
+        },
+        {
+          "key_type": "manga-ru",
+          "lable": "(MR) Mangá em Russo"
+        },
+        {
+          "key_type": "hentai-ru",
+          "lable": "(HR) Mangá +18 em Russo"
+        },
+        {
+          "key_type": "yaoi-ru",
+          "lable": "(YA) Mangá Yaoi em Russo"
+        },
+        {
+          "key_type": "anime-en",
+          "lable": "(AE) Anime e Filmes"
+        },
+        {
+          "key_type": "anime-ru",
+          "lable": "(AR) Anime e Filmes em Russo"
+        },
+        {
+          "key_type": "novel-en",
+          "lable": "(NE) Romances (Inglês)"
+        }
+      ]
+    }
+  ],
+  "data_menu": [
+    {
+      "Path": "#manga",
+      "key_type": "pageManga",
+      "index": 1,
+      "child": [
+        {
+          "key_type": "manga-en",
+          "index": 1,
+          "child": []
+        },
+        {
+          "key_type": "manga-br",
+          "index": 2,
+          "child": []
+        },
+        {
+          "key_type": "manga-ru",
+          "index": 3,
+          "child": []
+        },
+        {
+          "key_type": "hentai-ru",
+          "index": 4,
+          "child": []
+        },
+        {
+          "key_type": "yaoi-ru",
+          "index": 5,
+          "child": []
+        }
+      ]
+    },
+    {
+      "Path": "#anime",
+      "key_type": "pageAnime",
+      "index": 2,
+      "child": [
+        {
+          "Path": "",
+          "key_type": "anime-en",
+          "index": 1,
+          "child": []
+        },
+        {
+          "Path": "",
+          "key_type": "anime-ru",
+          "index": 2,
+          "child": []
+        }
+      ]
+    },
+    {
+      "Path": "",
+      "key_type": "comic-en",
+      "index": 3,
+      "child": []
+    },
+    {
+      "Path": "",
+      "key_type": "novel-en",
+      "index": 4,
+      "child": []
+    }
+  ]
+}

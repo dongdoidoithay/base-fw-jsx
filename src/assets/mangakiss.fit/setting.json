@@ -1,0 +1,37 @@
+{
+  "key_type_defalt": "manga-en",
+  "key_lang_defalt": "en",
+  "domain_name": "mangakiss.fit",
+  "brand_name": "Manga Kiss",
+  "brand_name_other": "Manga Kiss",
+  "image_bg": "/bg.jpg",
+  "image_logo": "default.png",
+  "lang_seo": "en",
+  "analytics_key": "G-34ZJ9QPQLM",
+  "bing_key": "b56e1003fc7744ebb65e65319b8dbb4c",
+  "google_key": "",
+  "monetag_key": "d2628787ede52c89407cf7025a38d6b4",
+  "ads": [
+    {
+      "key": "yandex",
+      "value": "R-A-6978912-1",
+      "unit": "",
+      "tempAds": "mangakiss.fit",
+      "type": "banner"
+    },
+    {
+      "key": "adsterra",
+      "value": "7dda5a48ae046a9442ee3edeb2c55f8c",
+      "unit": "",
+      "tempAds": "mangakiss.fit",
+      "type": "banner"
+    },
+    {
+      "key": "monetag-inital",
+      "value": "//thubanoa.com/1?z=7270576",
+      "unit": "",
+      "tempAds": "mangakiss.fit",
+      "type": "popup"
+    }
+  ]
+}

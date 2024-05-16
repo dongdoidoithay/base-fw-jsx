@@ -1,0 +1,28 @@
+https://publisher.mondiad.com/websites
+#banner 300 x250  -> key:mondiad-banner
+<script async src="https://ss.nwemnd.com/banner.js"></script>
+<div data-mndbanid="5456c1ba-c974-43ab-aab1-8114b843dcdc"></div>
+
+#native ->key: mondiad-native
+<script async src="https://ss.nwemnd.com/native.js"></script>
+<div data-mndazid="7de897f7-4441-42a7-a201-81e7e4d0fc2b"></div>
+
+
+https://members.popcash.net/websites/codes?website=704860
+#popup -> key:popcash-popup
+<script type="text/javascript">
+   var uid = '198238';
+   var wid = '704860';
+   var pop_tag = document.createElement('script');pop_tag.src='//cdn.popcash.net/show.js';document.body.appendChild(pop_tag);
+   pop_tag.onerror = function() {pop_tag = document.createElement('script');pop_tag.src='//cdn2.popcash.net/show.js';document.body.appendChild(pop_tag)};
+</script>
+
+
+https://pubfuture.com/website-ad-unit
+#sticky -> key: pubfuture-sticky
+<script async data-cfasync="false" src="https://cdn.pubfuture-ad.com/v2/unit/pt.js" type="text/javascript"></script>
+<div id="pf-7281-1"><script>window.pubfuturetag = window.pubfuturetag || [];window.pubfuturetag.push({unit: "65a78b8db2051a41f9173ff8", id: "pf-7281-1"})</script></div>
+
+#banner -->key: pubfuture-banner
+<script async data-cfasync="false" src="https://cdn.pubfuture-ad.com/v2/unit/pt.js" type="text/javascript"></script>
+<div id="pf-7280-1"><script>window.pubfuturetag = window.pubfuturetag || [];window.pubfuturetag.push({unit: "65a78b79b2051a41f9173fdb", id: "pf-7280-1"})</script></div>

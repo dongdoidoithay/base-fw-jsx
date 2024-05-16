@@ -1,0 +1,65 @@
+{
+  "key_type_defalt": "manga-en",
+  "key_lang_defalt": "en",
+  "domain_name": "mangahere.lol",
+  "brand_name": "Manga ✧ Here",
+  "brand_name_other": "MangaHere",
+  "image_bg": "/bg.jpg",
+  "image_logo": "default.png",
+  "lang_seo": "en",
+  "analytics_key": "G-2VRGZ7D2ZL",
+  "bing_key": "b56e1003fc7744ebb65e65319b8dbb4c",
+  "google_key": "",
+  "monetag_key": "31747524bb2c8970e88f064755fa473f",
+  "ads": [
+    {
+      "key": "yandex",
+      "value": "R-A-4987242-1",
+      "unit": "",
+      "tempAds": "mangahasu.org",
+      "type": "banner"
+    },
+    {
+      "key": "pubfuture-sticky",
+      "value": "pf-7281-1",
+      "unit": "65a78b8db2051a41f9173ff8",
+      "tempAds": "mangahasu.org",
+      "type": "sticky"
+    },
+    {
+      "key": "pubfuture-banner",
+      "value": "pf-7280-1",
+      "unit": "65a78b79b2051a41f9173fdb",
+      "tempAds": "mangahasu.org",
+      "type": "banner"
+    },
+    {
+      "key": "popcash-popup",
+      "value": "710352",
+      "unit": "",
+      "tempAds": "mangahasu.org",
+      "type": "popup"
+    },
+    {
+      "key": "adsterra",
+      "value": "f8a8700248c3cc3913ac71e2249c65a2",
+      "unit": "",
+      "tempAds": "mangahasu.org",
+      "type": "banner"
+    },
+    {
+      "key": "monetag-inital",
+      "value": "//thubanoa.com/1?z=7364003",
+      "unit": "",
+      "tempAds": "mangahasu.org",
+      "type": "popup"
+    },
+    {
+      "key": "monetag-popup",
+      "value": "7364014",
+      "unit": "",
+      "tempAds": "mangahasu.org",
+      "type": "popup"
+    }
+  ]
+}

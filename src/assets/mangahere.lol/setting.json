@@ -1,0 +1,44 @@
+{
+  "key_type_defalt": "manga-en",
+  "key_lang_defalt": "en",
+  "domain_name": "mangahere.lol",
+  "brand_name": "Manga ✧ Here",
+  "brand_name_other": "MangaHere",
+  "image_bg": "/bg.jpg",
+  "image_logo": "default.png",
+  "lang_seo": "en",
+  "analytics_key": "G-2VRGZ7D2ZL",
+  "bing_key": "b56e1003fc7744ebb65e65319b8dbb4c",
+  "google_key": "",
+  "monetag_key": "31747524bb2c8970e88f064755fa473f",
+  "ads": [
+    {
+      "key": "yandex",
+      "value": "R-A-5255387-1",
+      "unit": "",
+      "tempAds": "mangahere.lol",
+      "type": "banner"
+    },
+    {
+      "key": "adsterra",
+      "value": "312dbf3a090744c757cf3ca2da256ac1",
+      "unit": "",
+      "tempAds": "mangahere.lol",
+      "type": "banner"
+    },
+    {
+      "key": "monetag-inital",
+      "value": "//ophoacit.com/1?z=5636751",
+      "unit": "",
+      "tempAds": "mangahere.lol",
+      "type": "popup"
+    },
+    {
+      "key": "galaksion",
+      "value": "//mabelasateens.com/g94dn9mPlReNX/71588",
+      "unit": "",
+      "tempAds": "mangahere.lol",
+      "type": "popup"
+    }
+  ]
+}

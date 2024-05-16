@@ -1,0 +1,153 @@
+{
+  "data_type": [
+    {
+      "key_type": "manga-en",
+      "key_lang": "en",
+      "key_mode": "manga"
+    },
+    {
+      "key_type": "manga-br",
+      "key_lang": "br",
+      "key_mode": "manga"
+    },
+    {
+      "key_type": "manga-ru",
+      "key_lang": "ru",
+      "key_mode": "manga"
+    },
+    {
+      "key_type": "hentai-ru",
+      "key_lang": "ru",
+      "key_mode": "manga"
+    },
+    {
+      "key_type": "yaoi-ru",
+      "key_lang": "ru",
+      "key_mode": "manga"
+    },
+    {
+      "key_type": "comic-en",
+      "key_lang": "en",
+      "key_mode": "manga"
+    },
+    {
+      "key_type": "novel-en",
+      "key_lang": "en",
+      "key_mode": "novel"
+    },
+    {
+      "key_type": "anime-en",
+      "key_lang": "en",
+      "key_mode": "anime"
+    }
+
+  ],
+  "data_uri": [
+    {
+      "key_type": "manga-en",
+      "key_uri": "scan",
+      "prefix_url_api": "/manga",
+      "name_type": "Manga Scan",
+      "prefix_genres": "/genres",
+      "prefix_auth": "/auth",
+      "prefix_type": "/type",
+      "prefix_year": "/year",
+      "prefix_status": "/status",
+      "start_info": "",
+      "start_view": ""
+    },
+    {
+      "key_type": "comic-en",
+      "key_uri": "comic-dc",
+      "prefix_url_api": "/comic",
+      "name_type": "Comic & DC",
+      "prefix_genres": "/genres",
+      "prefix_auth": "/auth",
+      "prefix_type": "/type",
+      "prefix_year": "/year",
+      "prefix_status": "/status",
+      "start_info": "",
+      "start_view": "issue-"
+    },
+
+    {
+      "key_type": "anime-en",
+      "key_uri": "anime",
+      "prefix_url_api": "/anime",
+      "name_type": "Anime & Dub & Sub",
+      "prefix_genres": "/genres",
+      "prefix_auth": "/auth",
+      "prefix_type": "/type",
+      "prefix_year": "/year",
+      "prefix_status": "/status",
+      "start_info": "",
+      "start_view": "ep-"
+    },
+    {
+      "key_type": "manga-br",
+      "key_uri": "manga-br",
+      "prefix_url_api": "/manga-br",
+      "name_type": "Manga Português",
+      "prefix_genres": "/genres",
+      "prefix_auth": "/auth",
+      "prefix_type": "/type",
+      "prefix_year": "/year",
+      "prefix_status": "/status",
+      "start_info": "",
+      "start_view": "chapter-"
+    },
+    {
+      "key_type": "manga-ru",
+      "key_uri": "mangas",
+      "prefix_url_api": "/manga-ru",
+      "name_type": "Manga Русский",
+      "prefix_genres": "/genres",
+      "prefix_auth": "/auth",
+      "prefix_type": "/type",
+      "prefix_year": "/year",
+      "prefix_status": "/status",
+      "start_info": "",
+      "start_view": "chapter-"
+    },
+    {
+      "key_type": "hentai-ru",
+      "key_uri": "hentai",
+      "prefix_url_api": "/manga-ru-hentai",
+      "name_type": "Manga Русский",
+      "prefix_genres": "/genres",
+      "prefix_auth": "/auth",
+      "prefix_type": "/type",
+      "prefix_year": "/year",
+      "prefix_status": "/status",
+      "start_info": "",
+      "start_view": "chapter-"
+    },
+    {
+      "key_type": "yaoi-ru",
+      "key_uri": "yaoi",
+      "prefix_url_api": "/manga-ru-yaoi",
+      "name_type": "Manga Русский",
+      "prefix_genres": "/genres",
+      "prefix_auth": "/auth",
+      "prefix_type": "/type",
+      "prefix_year": "/year",
+      "prefix_status": "/status",
+      "start_info": "",
+      "start_view": "ch-"
+    },
+
+    {
+      "key_type": "novel-en",
+      "key_uri": "novel",
+      "prefix_url_api": "/novel",
+      "name_type": "Novel Light",
+      "prefix_genres": "/genres",
+      "prefix_auth": "/auth",
+      "prefix_type": "/type",
+      "prefix_year": "/year",
+      "prefix_status": "/status",
+      "start_info": "",
+      "start_view": ""
+    }
+  ]
+}

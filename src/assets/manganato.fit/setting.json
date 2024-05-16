@@ -1,0 +1,37 @@
+{
+  "key_type_defalt": "manga-en",
+  "key_lang_defalt": "en",
+  "domain_name": "manganato.fit",
+  "brand_name": "Manga Nato",
+  "brand_name_other": "Manga Nato",
+  "image_bg": "/bg.jpg",
+  "image_logo": "default.png",
+  "lang_seo": "en",
+  "analytics_key": "G-9CM461W56C",
+  "bing_key": "b56e1003fc7744ebb65e65319b8dbb4c",
+  "google_key": "",
+  "monetag_key": "e9098797158276e47948aee2260648cc",
+  "ads": [
+    {
+      "key": "yandex",
+      "value": "R-A-6979017-1",
+      "unit": "",
+      "tempAds": "manganato.fit",
+      "type": "banner"
+    },
+    {
+      "key": "adsterra",
+      "value": "6dd1240b8353e11ada2ce6e2adf1a8f3",
+      "unit": "",
+      "tempAds": "manganato.fit",
+      "type": "banner"
+    },
+    {
+      "key": "monetag-inital",
+      "value": "//thubanoa.com/1?z=7270590",
+      "unit": "",
+      "tempAds": "manganato.fit",
+      "type": "popup"
+    }
+  ]
+}

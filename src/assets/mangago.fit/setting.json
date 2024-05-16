@@ -1,0 +1,37 @@
+{
+  "key_type_defalt": "manga-en",
+  "key_lang_defalt": "en",
+  "domain_name": "mangago.fit",
+  "brand_name": "Manga Go",
+  "brand_name_other": "Manga Go",
+  "image_bg": "/bg.jpg",
+  "image_logo": "default.png",
+  "lang_seo": "en",
+  "analytics_key": "G-2DZKDWG49Z",
+  "bing_key": "b56e1003fc7744ebb65e65319b8dbb4c",
+  "google_key": "",
+  "monetag_key": "d777530aa8b10a61aec824846b38e050",
+  "ads": [
+    {
+      "key": "yandex",
+      "value": "R-A-6978863-1",
+      "unit": "",
+      "tempAds": "mangago.fit",
+      "type": "banner"
+    },
+    {
+      "key": "adsterra",
+      "value": "e5a6350d6c566c71ac22366e8f518308",
+      "unit": "",
+      "tempAds": "mangago.fit",
+      "type": "banner"
+    },
+    {
+      "key": "monetag-inital",
+      "value": "//thubanoa.com/1?z=7270572",
+      "unit": "",
+      "tempAds": "mangago.fit",
+      "type": "popup"
+    }
+  ]
+}
